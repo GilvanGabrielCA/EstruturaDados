@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744288976 source:c:\estruturadados\algbusca\cpp\main.cpp
+	<iostream>
+	<math.h>
+
+1744290643 source:c:\estruturadados\algbusca\cpp\buscalinear.cpp
+	<iostream>
+
